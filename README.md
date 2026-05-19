@@ -61,7 +61,7 @@
 ---
 <h3 align="center">🚀 Contributions</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <img height="185" src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" />
-  <img height="155" src="https://ghchart.rshah.org/Palash-r26" alt="Palash's Live Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" width="25%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palash-r26&theme=tokyo-night&hide_border=true&area=true" alt="Palash's Live Contribution Graph" width="73%" />
+</p>
