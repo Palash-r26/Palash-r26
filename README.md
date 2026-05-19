@@ -59,19 +59,9 @@
 </p>
 
 ---
-
 <h3 align="center">🚀 Contributions</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" valign="center" width="70%">
-        <img src="https://ghchart.rshah.org/Palash-r26?v=1" alt="Palash's Live Contribution Graph" />
-      </td>
-      
-      <td align="center" valign="center" width="30%">
-        <img width="150" src="PASTE_YOUR_RAW_GITHUB_IMAGE_LINK_HERE" alt="Rocket" />
-      </td>
-    </tr>
-  </table>
+  <img height="185" src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" />
+  <img height="185" src="https://ghchart.rshah.org/Palash-r26" alt="Palash's Live Contribution Graph" />
 </p>
