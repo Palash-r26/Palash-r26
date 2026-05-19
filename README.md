@@ -61,7 +61,7 @@
 ---
 <h3 align="center">🚀 Contributions</h3>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <img height="185" src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" />
-  <img height="185" src="https://ghchart.rshah.org/Palash-r26" alt="Palash's Live Contribution Graph" />
-</p>
+  <img height="155" src="https://ghchart.rshah.org/Palash-r26" alt="Palash's Live Contribution Graph" />
+</div>
