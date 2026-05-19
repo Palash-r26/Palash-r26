@@ -66,11 +66,11 @@
   <table>
     <tr>
       <td align="center" valign="center" width="70%">
-        <img src="https://ghchart.rshah.org/Palash-r26" alt="Palash's Live Contribution Graph" />
+        <img src="https://ghchart.rshah.org/Palash-r26?v=1" alt="Palash's Live Contribution Graph" />
       </td>
       
       <td align="center" valign="center" width="30%">
-        <img width="150" src="./rocket.png" alt="Rocket" />
+        <img width="150" src="PASTE_YOUR_RAW_GITHUB_IMAGE_LINK_HERE" alt="Rocket" />
       </td>
     </tr>
   </table>
