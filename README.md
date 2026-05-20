@@ -63,5 +63,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" width="25%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palash-r26&theme=tokyo-night&hide_border=true&area=true" alt="Palash's Live Contribution Graph" width="73%" />
+  <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/output/commit-invaders-dark.svg" alt="Palash's Space Shooter Matrix" width="73%" />
 </p>
