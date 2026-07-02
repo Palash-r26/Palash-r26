@@ -62,6 +62,6 @@
 <h3 align="center">🚀 Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean.png" alt="Rocket" width="25%" />
+  <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/main/rocket_clean-removebg-preview.png" alt="Rocket" width="25%" />
   <img src="https://raw.githubusercontent.com/Palash-r26/Palash-r26/output/commit-invaders-dark.svg" alt="Palash's Space Shooter Matrix" width="73%" />
 </p>
