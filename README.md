@@ -42,11 +42,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readmeapp.vercel.app/api?username=Palash-r26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="195" src="https://github-stats-extended.vercel.app/api?username=Palash-r26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Palash-r26's GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Palash-r26&layout=donut&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Palash-r26&layout=donut&theme=tokyonight&hide_border=true" alt="Palash-r26's Top Languages" />
   </a>
 </p>
 
