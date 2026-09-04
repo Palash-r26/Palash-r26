@@ -33,7 +33,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,ts,py,css,vercel,firebase,react,nextjs,flask,opencv,tailwind,vite,mongodb,mysql,figma,canva,arduino,git,github,vscode,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,ts,py,css,vercel,firebase,react,nextjs,flask,opencv,tailwind,vite,mongodb,mysql,figma,arduino,git,github,vscode,docker&perline=9" />
   </a>
 </p>
 
